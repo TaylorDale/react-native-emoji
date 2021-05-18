@@ -3,7 +3,7 @@
 import React from 'react';
 import { Text } from 'react-native';
 import PropTypes from 'prop-types';
-import nodeEmoji from 'node-emoji';
+import nodeEmoji from 'node-emoji-new';
 
 const keys = Object.keys(nodeEmoji.emoji);
 
